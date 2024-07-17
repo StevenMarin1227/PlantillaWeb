@@ -85,6 +85,7 @@ a.navbar-link:hover , a.nav-link:focus {
     padding: 10px 34px;
     transition: .4s ease;
     text-decoration: none;
+    border-radius: 10px;
 }
 
 .nav-btn a:hover {
